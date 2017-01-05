@@ -5,6 +5,7 @@ angular.module('myApp', [
   'ngRoute',
   'myApp.about',
   'myApp.products',
+  'myApp.order',
   'myApp.version'
 ]).
 config(['$locationProvider', '$routeProvider', function($locationProvider, $routeProvider) {
