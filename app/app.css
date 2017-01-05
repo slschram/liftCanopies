@@ -1,25 +1,113 @@
+@charset "UTF-8";
 /* app css stylesheet */
-
+body {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  background: -webkit-linear-gradient(white, #102441); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(white, #102441); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(white, #102441); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(white, #102441); /* Standard syntax */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.container {
+  width: 75%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  float: center;
+  border: none;
+  background-color: #FFFFFF;
+  padding: 1%;
+  overflow: hidden;
+}
+.bottomBar {
+  width: 100%;
+  margin-top:5%;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: .2%;
+  padding-bottom: .2%;
+  background-color: #A7A9AC;
+  font-color: #FFFFFF;
+  position: relative;
+  text-align: center;
+  clear:both;
+}
 .menu {
+  margin-top:0em;
+  background-color: #A7A9AC;
+  text-align: center;
+  font-size: 130%;
   list-style: none;
-  border-bottom: 0.1em solid black;
   margin-bottom: 2em;
-  padding: 0 0 0.5em;
+  padding: .3em 0 .3em 0;
 }
-
-.menu:before {
-  content: "[";
-}
-
-.menu:after {
-  content: "]";
-}
-
 .menu > li {
   display: inline;
+  font-weight: bold;
 }
-
 .menu > li + li:before {
   content: "|";
-  padding-right: 0.3em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
+/*unvisited link*/
+a:link {
+  color: #0000CC;
+  text-decoration: none;
+}
+/* visited link */
+a:visited {
+  text-decoration: none;
+  color: #BF2025;
+}
+/* mouse over link */
+a:hover {
+  color: #BF2025;
+  text-decoration: underline;
+}
+p,h2 {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  list-style-type: none;
+  padding-left: 5%;
+}
+table {
+  margin-left: 5%;
+}
+tr, td {
+  padding-left: 2%;
+}
+caption {
+  text-align: left;
+}
+/*Toggle*/
+h2.1, h2.2, h2.3, h2.4 {
+  font-color: #0000CC;
+  visibility:hidden;
+}
+table.1, table.2, p.2 {
+  visibility:hidden;
+}
+.content {
+  float:left;
+  width:60%;
+}
+.image {
+  float:right;
+  width:40%;
+}
+
+<!--[if lte IE 7]>
+<style>
+.content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */
+ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it needs to correct extra whiltespace between the links */
+</style>
+<![endif]-->
