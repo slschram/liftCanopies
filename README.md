@@ -145,7 +145,7 @@ npm run test-single-run
 ### Running End-to-End Tests
 
 The `angular-seed` app comes with end-to-end tests, again written in [Jasmine][jasmine]. These tests
-are run with the [Protractor][protractor] End-to-End test runner. It uses native events and has
+are run with the [Protractor][protractor] End-to-End test runner. It uses native step2s and has
 special features for Angular applications.
 
 * The configuration is found at `e2e-tests/protractor-conf.js`.
@@ -223,7 +223,7 @@ page. You can run this every time you update the version of Angular that you are
 While Angular is client-side-only technology and it is possible to create Angular web apps that
 do not require a backend server at all, we recommend serving the project files using a local
 web server during development to avoid issues with security restrictions (sandbox) in browsers. The
-sandbox implementation varies between browsers, but quite often prevents things like cookies, XHR,
+sandbox implementation varies between browsers, but quite often prstep2s things like cookies, XHR,
 etc to function properly when an HTML page is opened via the `file://` scheme instead of `http://`.
 
 ### Running the App during Development
