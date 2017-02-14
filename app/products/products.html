@@ -39,7 +39,7 @@
 <p>**Additional tax and shipping may apply**</p>
 
 <!-- BEGIN TABLE -->
-
+<table>
 <tr>
   <td>Product Number</td>
   <td>Brand Name</td>
@@ -48,8 +48,8 @@
   <td>ShelterRite Price</td>
   <td>HarborTime Price</td>
 </tr>
-<div ng-repeat="object in data">
-  <tr>
+<!-- <div ng-repeat="object in data"> -->
+  <tr ng-repeat="object in data">
     <td>{{object.productNumber}}</td>
     <td>{{object.brandName}}</td>
     <td>{{object.width}}"</td>
@@ -58,7 +58,8 @@
     <td>${{object.harborTime}}</td>
   </tr>
 
-</div>
+<!-- </div> -->
+</table>
 
 <p>INSERT PRODUCT TABLE HERE</p>
 
