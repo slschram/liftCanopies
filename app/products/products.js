@@ -13,7 +13,12 @@ angular.module('myApp.products', ['ngRoute'])
   return $http.get('./products.json').
     success(function(data) {
       $scope.data = data;
-      // console.log(data);
+
+      // Variables to filter the table data
+      $scope.sortType = 'productNumber'; // set the default sort type
+      $scope.sortReverse = false;  // set the default sort order
+      $scope.searchFish = '';     // set the default search/filter term
+
     }).error(function(data, status, headers, config) {
   });
 }]);

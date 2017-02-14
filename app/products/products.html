@@ -38,30 +38,75 @@
 <p>We also have two boat house covers available: a 20'x40' cover and a 30'x40' cover. Please call for pricing.</p>
 <p>**Additional tax and shipping may apply**</p>
 
+
+<!-- BEGIN SEARCH -->
+<form>
+    <div class="form-group">
+      <div class="input-group">
+        <div class="input-group-addon"><i class="fa fa-search"></i></div>
+        <input type="text" class="form-control" placeholder="Search da Fish" ng-model="searchFish">
+      </div>
+    </div>
+  </form>
 <!-- BEGIN TABLE -->
 <table>
-<tr>
-  <td>Product Number</td>
-  <td>Brand Name</td>
-  <td>Width</td>
-  <td>Length</td>
-  <td>ShelterRite Price</td>
-  <td>HarborTime Price</td>
-</tr>
-<!-- <div ng-repeat="object in data"> -->
-  <tr ng-repeat="object in data">
-    <td>{{object.productNumber}}</td>
-    <td>{{object.brandName}}</td>
-    <td>{{object.width}}"</td>
-    <td>{{object.lengthFt}}'{{object.lengthIn}}"</td>
-    <td>${{object.shelterRite}}</td>
-    <td>${{object.harborTime}}</td>
+  <thead>
+  <tr>
+    <td>
+      <a href="" ng-click="sortType = 'productNumber'; sortReverse = !sortReverse">
+        Product Number
+        <span ng-show="sortType == 'productNumber' && !sortReverse" class="fa fa-caret-down"></span>
+        <span ng-show="sortType == 'productNumber' && sortReverse" class="fa fa-caret-up"></span>
+      </a>
+    </td>
+    <td>
+      <a href="" ng-click="sortType = 'brandName'; sortReverse = !sortReverse">
+      Brand Name
+        <span ng-show="sortType == 'brandName' && !sortReverse" class="fa fa-caret-down"></span>
+        <span ng-show="sortType == 'brandName' && sortReverse" class="fa fa-caret-up"></span>
+      </a>
+    </td>
+    <td>
+      <a href="" ng-click="sortType = 'width'; sortReverse = !sortReverse">
+      Width
+        <span ng-show="sortType == 'width' && !sortReverse" class="fa fa-caret-down"></span>
+        <span ng-show="sortType == 'width' && sortReverse" class="fa fa-caret-up"></span>
+      </a>
+    </td>
+    <td>
+      <a href="" ng-click="sortType = 'lengthFt'; sortReverse = !sortReverse">
+        Length
+        <span ng-show="sortType == 'lengthFt' && !sortReverse" class="fa fa-caret-down"></span>
+        <span ng-show="sortType == 'lengthFt' && sortReverse" class="fa fa-caret-up"></span>
+      </a>
+    </td>
+    <td>
+      <a href="" ng-click="sortType = 'shelterRite'; sortReverse = !sortReverse">
+      shelterRite Price
+        <span ng-show="sortType == 'shelterRite' && !sortReverse" class="fa fa-caret-down"></span>
+        <span ng-show="sortType == 'shelterRite' && sortReverse" class="fa fa-caret-up"></span>
+      </a>
+    </td>
+    <td>
+      <a href="" ng-click="sortType = 'harborTime'; sortReverse = !sortReverse">
+      harborTime Price
+        <span ng-show="sortType == 'harborTime' && !sortReverse" class="fa fa-caret-down"></span>
+        <span ng-show="sortType == 'harborTime' && sortReverse" class="fa fa-caret-up"></span>
+      </a>
+    </td>
   </tr>
-
-<!-- </div> -->
+</thead>
+  <tbody>
+    <tr ng-repeat="object in data | orderBy:sortType:sortReverse | filter:searchFish">
+      <td>{{object.productNumber}}</td>
+      <td>{{object.brandName}}</td>
+      <td>{{object.width}}"</td>
+      <td>{{object.lengthFt}}'{{object.lengthIn}}"</td>
+      <td>${{object.shelterRite}}</td>
+      <td>${{object.harborTime}}</td>
+    </tr>
+  </tbody>
 </table>
-
-<p>INSERT PRODUCT TABLE HERE</p>
 
 
 <!-- Example of a component use!
