@@ -38,6 +38,28 @@
 <p>We also have two boat house covers available: a 20'x40' cover and a 30'x40' cover. Please call for pricing.</p>
 <p>**Additional tax and shipping may apply**</p>
 
+<!-- BEGIN TABLE -->
+
+<tr>
+  <td>Product Number</td>
+  <td>Brand Name</td>
+  <td>Width</td>
+  <td>Length</td>
+  <td>ShelterRite Price</td>
+  <td>HarborTime Price</td>
+</tr>
+<div ng-repeat="object in data">
+  <tr>
+    <td>{{object.productNumber}}</td>
+    <td>{{object.brandName}}</td>
+    <td>{{object.width}}"</td>
+    <td>{{object.lengthFt}}'{{object.lengthIn}}"</td>
+    <td>${{object.shelterRite}}</td>
+    <td>${{object.harborTime}}</td>
+  </tr>
+
+</div>
+
 <p>INSERT PRODUCT TABLE HERE</p>
 
 

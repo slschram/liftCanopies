@@ -9,6 +9,13 @@ angular.module('myApp.products', ['ngRoute'])
   });
 }])
 
-.controller('ProductsCtrl', [function() {
-
+.controller('ProductsCtrl', ['$scope', '$http', function($scope, $http) {
+  return $http.get('./products.json').
+    success(function(data) {
+      $scope.data = data;
+      // console.log(data);
+    }).error(function(data, status, headers, config) {
+  });
 }]);
+
+// console.log($scope.data);
