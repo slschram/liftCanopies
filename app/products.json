@@ -1,0 +1,2837 @@
+{
+	"0": [{
+		"productNumber": "sm1234567",
+		"brandName": "ShoreMaster®",
+		"width": "567",
+		"lengthFt": "12",
+		"lengthIn": "34",
+		"shelterRite": "184.37",
+		"harborTime": "184.37"
+	}],
+	"1": [{
+		"productNumber": "sm1300064",
+		"brandName": "ShoreMaster®",
+		"width": "64",
+		"lengthFt": "13",
+		"lengthIn": "0",
+		"shelterRite": "620.06",
+		"harborTime": "726.15"
+	}],
+	"2": [{
+		"productNumber": "sm1300064",
+		"brandName": "ShoreMaster®",
+		"width": "64",
+		"lengthFt": "13",
+		"lengthIn": "0",
+		"shelterRite": "427.97",
+		"harborTime": "530.14"
+	}],
+	"3": [{
+		"productNumber": "SM1300064",
+		"brandName": "ShoreMaster®",
+		"width" : "64",
+		"lengthFt" : "13",
+		"lengthIn" : "0",
+		"shelterRite" : "427.97",
+		"harborTime" : "530.14"
+	}],
+	"4": [{
+		"productNumber" : "SM1900084",
+		"brandName" : "ShoreMaster®",
+		"width" : "84",
+		"lengthFt" : "19",
+		"lengthIn" : "0",
+		"shelterRite" : "563.7",
+		"harborTime" : "738.5"
+	}],
+	"5": [{
+		"productNumber" : "SM1900096",
+		"brandName" : "ShoreMaster®",
+		"width" : "96",
+		"lengthFt" : "19",
+		"lengthIn" : "0",
+		"shelterRite" : "602.73",
+		"harborTime" : "755.58"
+	}],
+	"6": [{
+		"productNumber" : "SM1900108",
+		"brandName" : "ShoreMaster®",
+		"width" : "108",
+		"lengthFt" : "19",
+		"lengthIn" : "0",
+		"shelterRite" : "629.11",
+		"harborTime" : "773.8"
+	}],
+	"7": [{
+		"productNumber" : "SM2100096",
+		"brandName" : "ShoreMaster®",
+		"width" : "96",
+		"lengthFt" : "21",
+		"lengthIn" : "0",
+		"shelterRite" : "622.22",
+		"harborTime" : "792.46"
+	}],
+	"8": [{
+		"productNumber" : "SM2100108",
+		"brandName" : "ShoreMaster®",
+		"width" : "108",
+		"lengthFt" : "21",
+		"lengthIn" : "0",
+		"shelterRite" : "651.58",
+		"harborTime" : "815.92"
+	}],
+	"9": [{
+		"productNumber" : "SM2100120",
+		"brandName" : "ShoreMaster®",
+		"width" : "120",
+		"lengthFt" : "21",
+		"lengthIn" : "0",
+		"shelterRite" : "666.29",
+		"harborTime" : "831.52"
+	}],
+	"10": [{
+		"productNumber" : "SM2300100",
+		"brandName" : "ShoreMaster®",
+		"width" : "100",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "643.9",
+		"harborTime" : "833.87"
+	}],
+	"11": [{
+		"productNumber" : "SM2300108",
+		"brandName" : "ShoreMaster®",
+		"width" : "108",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "669.86",
+		"harborTime" : "851.03"
+	}],
+	"12": [{
+		"productNumber" : "SM2300120",
+		"brandName" : "ShoreMaster®",
+		"width" : "120",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "684.71",
+		"harborTime" : "866.72"
+	}],
+	"13": [{
+		"productNumber" : "SM2500108",
+		"brandName" : "ShoreMaster®",
+		"width" : "108",
+		"lengthFt" : "25",
+		"lengthIn" : "0",
+		"shelterRite" : "697.01",
+		"harborTime" : "889.5"
+	}],
+	"14": [{
+		"productNumber" : "SM2500120",
+		"brandName" : "ShoreMaster®",
+		"width" : "120",
+		"lengthFt" : "25",
+		"lengthIn" : "0",
+		"shelterRite" : "712.56",
+		"harborTime" : "908.22"
+	}],
+	"15": [{
+		"productNumber" : "SM2700108",
+		"brandName" : "ShoreMaster®",
+		"width" : "108",
+		"lengthFt" : "27",
+		"lengthIn" : "0",
+		"shelterRite" : "718.34",
+		"harborTime" : "929.39"
+	}],
+	"16": [{
+		"productNumber" : "SM2700120",
+		"brandName" : "ShoreMaster®",
+		"width" : "120",
+		"lengthFt" : "27",
+		"lengthIn" : "0",
+		"shelterRite" : "732.78",
+		"harborTime" : "947.91"
+	}],
+	"17": [{
+		"productNumber" : "SM2700132",
+		"brandName" : "ShoreMaster®",
+		"width" : "132",
+		"lengthFt" : "27",
+		"lengthIn" : "0",
+		"shelterRite" : "818.87",
+		"harborTime" : "1099.29"
+	}],
+	"18": [{
+		"productNumber" : "SM2900108",
+		"brandName" : "ShoreMaster®",
+		"width" : "108",
+		"lengthFt" : "29",
+		"lengthIn" : "0",
+		"shelterRite" : "744.13",
+		"harborTime" : "967.57"
+	}],
+	"19": [{
+		"productNumber" : "SM2900120",
+		"brandName" : "ShoreMaster®",
+		"width" : "120",
+		"lengthFt" : "29",
+		"lengthIn" : "0",
+		"shelterRite" : "755.61",
+		"harborTime" : "984.63"
+	}],
+	"20": [{
+		"productNumber" : "SM2900132",
+		"brandName" : "ShoreMaster®",
+		"width" : "132",
+		"lengthFt" : "29",
+		"lengthIn" : "0",
+		"shelterRite" : "848.22",
+		"harborTime" : "1147.68"
+	}],
+	"21": [{
+		"productNumber" : "SM3100120",
+		"brandName" : "ShoreMaster®",
+		"width" : "120",
+		"lengthFt" : "31",
+		"lengthIn" : "0",
+		"shelterRite" : "782.51",
+		"harborTime" : "1024.07"
+	}],
+	"22": [{
+		"productNumber" : "SM3100132",
+		"brandName" : "ShoreMaster®",
+		"width" : "132",
+		"lengthFt" : "31",
+		"lengthIn" : "0",
+		"shelterRite" : "877.7",
+		"harborTime" : "1196.23"
+	}],
+	"23": [{
+		"productNumber" : "SM3300120",
+		"brandName" : "ShoreMaster®",
+		"width" : "120",
+		"lengthFt" : "33",
+		"lengthIn" : "0",
+		"shelterRite" : "811.38",
+		"harborTime" : "1062.33"
+	}],
+	"24": [{
+		"productNumber" : "SM3300132",
+		"brandName" : "ShoreMaster®",
+		"width" : "132",
+		"lengthFt" : "33",
+		"lengthIn" : "0",
+		"shelterRite" : "907.03",
+		"harborTime" : "1062.33"
+	}],
+	"25": [{
+		"productNumber" : "SM3500132",
+		"brandName" : "ShoreMaster®",
+		"width" : "132",
+		"lengthFt" : "35",
+		"lengthIn" : "0",
+		"shelterRite" : "943.94",
+		"harborTime" : "1302.24"
+	}],
+	"26": [{
+		"productNumber" : "BK1300060",
+		"brandName" : "Beach King",
+		"width" : "60",
+		"lengthFt" : "13",
+		"lengthIn" : "0",
+		"shelterRite" : "510.21",
+		"harborTime" : "538.77"
+	}],
+	"27": [{
+		"productNumber" : "BK1300072",
+		"brandName" : "Beach King",
+		"width" : "72",
+		"lengthFt" : "13",
+		"lengthIn" : "0",
+		"shelterRite" : "524.14",
+		"harborTime" : "598.74"
+	}],
+	"28": [{
+		"productNumber" : "BK1300120",
+		"brandName" : "Beach King",
+		"width" : "120",
+		"lengthFt" : "13",
+		"lengthIn" : "0",
+		"shelterRite" : "631.54",
+		"harborTime" : "786.74"
+	}],
+	"29": [{
+		"productNumber" : "BK1900084",
+		"brandName" : "Beach King",
+		"width" : "84",
+		"lengthFt" : "19",
+		"lengthIn" : "0",
+		"shelterRite" : "614.18",
+		"harborTime" : "739.36"
+	}],
+	"30": [{
+		"productNumber" : "BK1900096",
+		"brandName" : "Beach King",
+		"width" : "96",
+		"lengthFt" : "19",
+		"lengthIn" : "0",
+		"shelterRite" : "620.59",
+		"harborTime" : "797.51"
+	}],
+	"31": [{
+		"productNumber" : "BK1900114",
+		"brandName" : "Beach King",
+		"width" : "114",
+		"lengthFt" : "19",
+		"lengthIn" : "0",
+		"shelterRite" : "653.09",
+		"harborTime" : "832.3"
+	}],
+	"32": [{
+		"productNumber" : "BK2100096",
+		"brandName" : "Beach King",
+		"width" : "96",
+		"lengthFt" : "21",
+		"lengthIn" : "0",
+		"shelterRite" : "642.6",
+		"harborTime" : "768.32"
+	}],
+	"33": [{
+		"productNumber" : "BK2100114",
+		"brandName" : "Beach King",
+		"width" : "114",
+		"lengthFt" : "21",
+		"lengthIn" : "0",
+		"shelterRite" : "665.88",
+		"harborTime" : "795.9"
+	}],
+	"34": [{
+		"productNumber" : "BK2300114",
+		"brandName" : "Beach King",
+		"width" : "114",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "692.72",
+		"harborTime" : "822.08"
+	}],
+	"35": [{
+		"productNumber" : "BK2300120",
+		"brandName" : "Beach King",
+		"width" : "120",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "754.32",
+		"harborTime" : "991.99"
+	}],
+	"36": [{
+		"productNumber" : "BK2400114",
+		"brandName" : "Beach King",
+		"width" : "114",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "698.49",
+		"harborTime" : "932.23"
+	}],
+	"37": [{
+		"productNumber" : "BK2400120",
+		"brandName" : "Beach King",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "759.03",
+		"harborTime" : "997.04"
+	}],
+	"38": [{
+		"productNumber" : "BK2600114",
+		"brandName" : "Beach King",
+		"width" : "114",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "737.2",
+		"harborTime" : "921.24"
+	}],
+	"39": [{
+		"productNumber" : "BK2600120",
+		"brandName" : "Beach King",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "802.83",
+		"harborTime" : "1061.69"
+	}],
+	"40": [{
+		"productNumber" : "BK2900114",
+		"brandName" : "Beach King",
+		"width" : "114",
+		"lengthFt" : "29",
+		"lengthIn" : "0",
+		"shelterRite" : "778.5",
+		"harborTime" : "990.66"
+	}],
+	"41": [{
+		"productNumber" : "BK2900120",
+		"brandName" : "Beach King",
+		"width" : "120",
+		"lengthFt" : "29",
+		"lengthIn" : "0",
+		"shelterRite" : "848.79",
+		"harborTime" : "1130.98"
+	}],
+	"42": [{
+		"productNumber" : "BK2900144",
+		"brandName" : "Beach King",
+		"width" : "144",
+		"lengthFt" : "29",
+		"lengthIn" : "0",
+		"shelterRite" : "882.82",
+		"harborTime" : "1158.87"
+	}],
+	"43": [{
+		"productNumber" : "BK3200120",
+		"brandName" : "Beach King",
+		"width" : "120",
+		"lengthFt" : "32",
+		"lengthIn" : "0",
+		"shelterRite" : "859.73",
+		"harborTime" : "1134.15"
+	}],
+	"44": [{
+		"productNumber" : "BKT2300114",
+		"brandName" : "Beach King Tower",
+		"width" : "114",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "860.72",
+		"harborTime" : "1076.94"
+	}],
+	"45": [{
+		"productNumber" : "BKT2300120",
+		"brandName" : "Beach King Tower",
+		"width" : "120",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "891.34",
+		"harborTime" : "1116.31"
+	}],
+	"46": [{
+		"productNumber" : "BKT2600114",
+		"brandName" : "Beach King Tower",
+		"width" : "114",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "930.57",
+		"harborTime" : "1120.54"
+	}],
+	"47": [{
+		"productNumber" : "BKT2600120",
+		"brandName" : "Beach King Tower",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "951.07",
+		"harborTime" : "1185.62"
+	}],
+	"48": [{
+		"productNumber" : "BKT2900120",
+		"brandName" : "Beach King Tower",
+		"width" : "120",
+		"lengthFt" : "29",
+		"lengthIn" : "0",
+		"shelterRite" : "1009.04",
+		"harborTime" : "1254.91"
+	}],
+	"49": [{
+		"productNumber" : "DK2000084",
+		"brandName" : "DAKA",
+		"width" : "84",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "600.69",
+		"harborTime" : "781.69"
+	}],
+	"50": [{
+		"productNumber" : "DK2000096",
+		"brandName" : "DAKA",
+		"width" : "96",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "601.76",
+		"harborTime" : "782.8"
+	}],
+	"51": [{
+		"productNumber" : "DK2000115",
+		"brandName" : "DAKA",
+		"width" : "115",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "612.11",
+		"harborTime" : "797.6"
+	}],
+	"52": [{
+		"productNumber" : "DK2200096",
+		"brandName" : "DAKA",
+		"width" : "96",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "630.04",
+		"harborTime" : "823.25"
+	}],
+	"53": [{
+		"productNumber" : "DK2200108",
+		"brandName" : "DAKA",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "634.86",
+		"harborTime" : "836.18"
+	}],
+	"54": [{
+		"productNumber" : "DK2200115",
+		"brandName" : "DAKA",
+		"width" : "115",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "638.75",
+		"harborTime" : "835.7"
+	}],
+	"55": [{
+		"productNumber" : "DK2400096",
+		"brandName" : "DAKA",
+		"width" : "96",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "658.42",
+		"harborTime" : "836.81"
+	}],
+	"56": [{
+		"productNumber" : "DK2400115",
+		"brandName" : "DAKA",
+		"width" : "115",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "667.55",
+		"harborTime" : "876.87"
+	}],
+	"57": [{
+		"productNumber" : "DK2600096",
+		"brandName" : "DAKA",
+		"width" : "96",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "686.42",
+		"harborTime" : "903.85"
+	}],
+	"58": [{
+		"productNumber" : "DK2600115",
+		"brandName" : "DAKA",
+		"width" : "115",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "695.59",
+		"harborTime" : "916.95"
+	}],
+	"59": [{
+		"productNumber" : "DK2800096",
+		"brandName" : "DAKA",
+		"width" : "96",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "714.83",
+		"harborTime" : "944.45"
+	}],
+	"60": [{
+		"productNumber" : "DK2800115",
+		"brandName" : "DAKA",
+		"width" : "115",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "723.8",
+		"harborTime" : "957.27"
+	}],
+	"61": [{
+		"productNumber" : "DK3000096",
+		"brandName" : "DAKA",
+		"width" : "96",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "742.87",
+		"harborTime" : "984.53"
+	}],
+	"62": [{
+		"productNumber" : "DK3000115",
+		"brandName" : "DAKA",
+		"width" : "115",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "751.86",
+		"harborTime" : "997.39"
+	}],
+	"63": [{
+		"productNumber" : "DR1200064",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "64",
+		"lengthFt" : "12",
+		"lengthIn" : "0",
+		"shelterRite" : "425.85",
+		"harborTime" : "593.01"
+	}],
+	"64": [{
+		"productNumber" : "DR1200075",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "75",
+		"lengthFt" : "12",
+		"lengthIn" : "0",
+		"shelterRite" : "514.92",
+		"harborTime" : "742.69"
+	}],
+	"65": [{
+		"productNumber" : "DR1900084",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "84",
+		"lengthFt" : "19",
+		"lengthIn" : "0",
+		"shelterRite" : "631.87",
+		"harborTime" : "908.57"
+	}],
+	"66": [{
+		"productNumber" : "DR2100096",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "96",
+		"lengthFt" : "21",
+		"lengthIn" : "0",
+		"shelterRite" : "642.94",
+		"harborTime" : "967.59"
+	}],
+	"67": [{
+		"productNumber" : "DR2300114",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "114",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "735.6",
+		"harborTime" : "1142.54"
+	}],
+	"68": [{
+		"productNumber" : "DR2300120",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "120",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "740.55",
+		"harborTime" : "1151.13"
+	}],
+	"69": [{
+		"productNumber" : "DR2600114",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "114",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "782.01",
+		"harborTime" : "1222.95"
+	}],
+	"70": [{
+		"productNumber" : "DR2600120",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "786.77",
+		"harborTime" : "1231.2"
+	}],
+	"71": [{
+		"productNumber" : "DR2600144",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "144",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "852.24",
+		"harborTime" : "1357.35"
+	}],
+	"72": [{
+		"productNumber" : "DR2800120",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "817.86",
+		"harborTime" : "1285.09"
+	}],
+	"73": [{
+		"productNumber" : "DR3000120",
+		"brandName" : "Dock\u0027Rite",
+		"width" : "120",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "849.0",
+		"harborTime" : "1339.04"
+	}],
+	"74": [{
+		"productNumber" : "DL0600108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "6",
+		"lengthIn" : "0",
+		"shelterRite" : "475.61",
+		"harborTime" : "602.49"
+	}],
+	"75": [{
+		"productNumber" : "DL0602108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "6",
+		"lengthIn" : "2",
+		"shelterRite" : "490.09",
+		"harborTime" : "623.18"
+	}],
+	"76": [{
+		"productNumber" : "DL1200108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "12",
+		"lengthIn" : "0",
+		"shelterRite" : "553.8",
+		"harborTime" : "714.25"
+	}],
+	"77": [{
+		"productNumber" : "DL1206108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "12",
+		"lengthIn" : "6",
+		"shelterRite" : "559.6",
+		"harborTime" : "722.53"
+	}],
+	"78": [{
+		"productNumber" : "DL1200120",
+		"brandName" : "DuraLift",
+		"width" : "120",
+		"lengthFt" : "12",
+		"lengthIn" : "0",
+		"shelterRite" : "562.49",
+		"harborTime" : "726.68"
+	}],
+	"79": [{
+		"productNumber" : "DL1300108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "13",
+		"lengthIn" : "0",
+		"shelterRite" : "565.39",
+		"harborTime" : "730.82"
+	}],
+	"80": [{
+		"productNumber" : "DL1400108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "14",
+		"lengthIn" : "0",
+		"shelterRite" : "576.96",
+		"harborTime" : "747.38"
+	}],
+	"81": [{
+		"productNumber" : "DL1800108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "617.51",
+		"harborTime" : "805.33"
+	}],
+	"82": [{
+		"productNumber" : "DL1800156",
+		"brandName" : "DuraLift",
+		"width" : "156",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "643.57",
+		"harborTime" : "842.58"
+	}],
+	"83": [{
+		"productNumber" : "DL2000096",
+		"brandName" : "DuraLift",
+		"width" : "96",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "591.45",
+		"harborTime" : "768.07"
+	}],
+	"84": [{
+		"productNumber" : "DL2000108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "643.57",
+		"harborTime" : "842.58"
+	}],
+	"85": [{
+		"productNumber" : "DL2000120",
+		"brandName" : "DuraLift",
+		"width" : "120",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "652.26",
+		"harborTime" : "855.0"
+	}],
+	"86": [{
+		"productNumber" : "DL2000132",
+		"brandName" : "DuraLift",
+		"width" : "132",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "663.85",
+		"harborTime" : "871.57"
+	}],
+	"87": [{
+		"productNumber" : "DL2200108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "672.53",
+		"harborTime" : "883.98"
+	}],
+	"88": [{
+		"productNumber" : "DL2200120",
+		"brandName" : "DuraLift",
+		"width" : "120",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "681.22",
+		"harborTime" : "896.4"
+	}],
+	"89": [{
+		"productNumber" : "DL2400108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "698.59",
+		"harborTime" : "921.23"
+	}],
+	"90": [{
+		"productNumber" : "DL2400120",
+		"brandName" : "DuraLift",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "704.39",
+		"harborTime" : "929.51"
+	}],
+	"91": [{
+		"productNumber" : "DL2400132",
+		"brandName" : "DuraLift",
+		"width" : "132",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "715.96",
+		"harborTime" : "946.08"
+	}],
+	"92": [{
+		"productNumber" : "DL2600108",
+		"brandName" : "DuraLift",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "773.88",
+		"harborTime" : "1028.87"
+	}],
+	"93": [{
+		"productNumber" : "DL2600120",
+		"brandName" : "DuraLift",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "736.23",
+		"harborTime" : "975.05"
+	}],
+	"94": [{
+		"productNumber" : "DL2600132",
+		"brandName" : "DuraLift",
+		"width" : "132",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "744.93",
+		"harborTime" : "987.47"
+	}],
+	"95": [{
+		"productNumber" : "DL2800120",
+		"brandName" : "DuraLift",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "768.09",
+		"harborTime" : "1020.59"
+	}],
+	"96": [{
+		"productNumber" : "DL2800132",
+		"brandName" : "DuraLift",
+		"width" : "132",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "773.88",
+		"harborTime" : "1028.87"
+	}],
+	"97": [{
+		"productNumber" : "DL3000120",
+		"brandName" : "DuraLift",
+		"width" : "120",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "785.47",
+		"harborTime" : "1045.42"
+	}],
+	"98": [{
+		"productNumber" : "DL3000132",
+		"brandName" : "DuraLift",
+		"width" : "132",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "802.83",
+		"harborTime" : "1070.26"
+	}],
+	"99": [{
+		"productNumber" : "DL3200132",
+		"brandName" : "DuraLift",
+		"width" : "132",
+		"lengthFt" : "32",
+		"lengthIn" : "0",
+		"shelterRite" : "834.69",
+		"harborTime" : "1115.8"
+	}],
+	"100": [{
+		"productNumber" : "DL3200156",
+		"brandName" : "DuraLift",
+		"width" : "156",
+		"lengthFt" : "32",
+		"lengthIn" : "0",
+		"shelterRite" : "878.13",
+		"harborTime" : "1177.89"
+	}],
+	"101": [{
+		"productNumber" : "DL3400132",
+		"brandName" : "DuraLift",
+		"width" : "132",
+		"lengthFt" : "34",
+		"lengthIn" : "0",
+		"shelterRite" : "863.64",
+		"harborTime" : "1157.19"
+	}],
+	"102": [{
+		"productNumber" : "DL3400156",
+		"brandName" : "DuraLift",
+		"width" : "156",
+		"lengthFt" : "34",
+		"lengthIn" : "0",
+		"shelterRite" : "907.09",
+		"harborTime" : "1219.28"
+	}],
+	"103": [{
+		"productNumber" : "DL3600120",
+		"brandName" : "DuraLift",
+		"width" : "120",
+		"lengthFt" : "36",
+		"lengthIn" : "0",
+		"shelterRite" : "889.8",
+		"harborTime" : "1194.45"
+	}],
+	"104": [{
+		"productNumber" : "DL3600132",
+		"brandName" : "DuraLift",
+		"width" : "132",
+		"lengthFt" : "36",
+		"lengthIn" : "0",
+		"shelterRite" : "892.61",
+		"harborTime" : "1198.59"
+	}],
+	"105": [{
+		"productNumber" : "DL3800156",
+		"brandName" : "DuraLift",
+		"width" : "156",
+		"lengthFt" : "38",
+		"lengthIn" : "0",
+		"shelterRite" : "973.69",
+		"harborTime" : "1314.5"
+	}],
+	"106": [{
+		"productNumber" : "DL4000156",
+		"brandName" : "DuraLift",
+		"width" : "156",
+		"lengthFt" : "40",
+		"lengthIn" : "0",
+		"shelterRite" : "993.96",
+		"harborTime" : "1343.47"
+	}],
+	"107": [{
+		"productNumber" : "FL2000108",
+		"brandName" : "FLOE",
+		"width" : "108",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "608.74",
+		"harborTime" : "738.87"
+	}],
+	"108": [{
+		"productNumber" : "FL2000116",
+		"brandName" : "FLOE",
+		"width" : "116",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "642.56",
+		"harborTime" : "837.6"
+	}],
+	"109": [{
+		"productNumber" : "FL2200108",
+		"brandName" : "FLOE",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "640.05",
+		"harborTime" : "774.51"
+	}],
+	"110": [{
+		"productNumber" : "FL2200116",
+		"brandName" : "FLOE",
+		"width" : "116",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "675.4",
+		"harborTime" : "860.17"
+	}],
+	"111": [{
+		"productNumber" : "FL2200120",
+		"brandName" : "FLOE",
+		"width" : "120",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "641.12",
+		"harborTime" : "775.62"
+	}],
+	"112": [{
+		"productNumber" : "FL2400108",
+		"brandName" : "FLOE",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "656.9",
+		"harborTime" : "810.22"
+	}],
+	"113": [{
+		"productNumber" : "FL2400116",
+		"brandName" : "FLOE",
+		"width" : "116",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "706.49",
+		"harborTime" : "902.85"
+	}],
+	"114": [{
+		"productNumber" : "FL2400120",
+		"brandName" : "FLOE",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "707.56",
+		"harborTime" : "903.96"
+	}],
+	"115": [{
+		"productNumber" : "FL2600108",
+		"brandName" : "FLOE",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "680.2",
+		"harborTime" : "856.91"
+	}],
+	"116": [{
+		"productNumber" : "FL2600116",
+		"brandName" : "FLOE",
+		"width" : "116",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "737.49",
+		"harborTime" : "945.5"
+	}],
+	"117": [{
+		"productNumber" : "FL2600120",
+		"brandName" : "FLOE",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "738.56",
+		"harborTime" : "945.5"
+	}],
+	"118": [{
+		"productNumber" : "FL2800116",
+		"brandName" : "FLOE",
+		"width" : "116",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "747.46",
+		"harborTime" : "994.74"
+	}],
+	"119": [{
+		"productNumber" : "FL2800120",
+		"brandName" : "FLOE",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "745.17",
+		"harborTime" : "994.74"
+	}],
+	"120": [{
+		"productNumber" : "FL3000116",
+		"brandName" : "FLOE",
+		"width" : "116",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "756.47",
+		"harborTime" : "1037.44"
+	}],
+	"121": [{
+		"productNumber" : "FL3000120",
+		"brandName" : "FLOE",
+		"width" : "120",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "779.42",
+		"harborTime" : "1167.66"
+	}],
+	"122": [{
+		"productNumber" : "HM1800100",
+		"brandName" : "Harbor Master",
+		"width" : "100",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "665.17",
+		"harborTime" : "770.26"
+	}],
+	"123": [{
+		"productNumber" : "HM1900084",
+		"brandName" : "Harbor Master",
+		"width" : "84",
+		"lengthFt" : "19",
+		"lengthIn" : "0",
+		"shelterRite" : "626.66",
+		"harborTime" : "783.7"
+	}],
+	"124": [{
+		"productNumber" : "HM2100096",
+		"brandName" : "Harbor Master",
+		"width" : "96",
+		"lengthFt" : "21",
+		"lengthIn" : "0",
+		"shelterRite" : "696.12",
+		"harborTime" : "783.7"
+	}],
+	"125": [{
+		"productNumber" : "HM2100100",
+		"brandName" : "Harbor Master",
+		"width" : "100",
+		"lengthFt" : "21",
+		"lengthIn" : "0",
+		"shelterRite" : "702.14",
+		"harborTime" : "829.22"
+	}],
+	"126": [{
+		"productNumber" : "HM2100108",
+		"brandName" : "Harbor Master",
+		"width" : "108",
+		"lengthFt" : "21",
+		"lengthIn" : "0",
+		"shelterRite" : "711.66",
+		"harborTime" : "864.66"
+	}],
+	"127": [{
+		"productNumber" : "HM2400108",
+		"brandName" : "Harbor Master",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "720.0",
+		"harborTime" : "927.53"
+	}],
+	"128": [{
+		"productNumber" : "HM2400114",
+		"brandName" : "Harbor Master",
+		"width" : "114",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "730.64",
+		"harborTime" : "933.43"
+	}],
+	"129": [{
+		"productNumber" : "HM2400120",
+		"brandName" : "Harbor Master",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "737.11",
+		"harborTime" : "944.19"
+	}],
+	"130": [{
+		"productNumber" : "HM2700114",
+		"brandName" : "Harbor Master",
+		"width" : "114",
+		"lengthFt" : "27",
+		"lengthIn" : "0",
+		"shelterRite" : "788.37",
+		"harborTime" : "990.35"
+	}],
+	"131": [{
+		"productNumber" : "HM2700120",
+		"brandName" : "Harbor Master",
+		"width" : "120",
+		"lengthFt" : "27",
+		"lengthIn" : "0",
+		"shelterRite" : "813.27",
+		"harborTime" : "1013.96"
+	}],
+	"132": [{
+		"productNumber" : "HW1800100",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "100",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "484.46",
+		"harborTime" : "642.88"
+	}],
+	"133": [{
+		"productNumber" : "HW1800110",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "110",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "576.78",
+		"harborTime" : "605.1"
+	}],
+	"134": [{
+		"productNumber" : "HW2000100",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "100",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "514.1",
+		"harborTime" : "537.95"
+	}],
+	"135": [{
+		"productNumber" : "HW2000110",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "110",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "580.68",
+		"harborTime" : "759.53"
+	}],
+	"136": [{
+		"productNumber" : "HW2000120",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "120",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "595.18",
+		"harborTime" : "751.87"
+	}],
+	"137": [{
+		"productNumber" : "HW2200110",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "110",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "603.22",
+		"harborTime" : "775.91"
+	}],
+	"138": [{
+		"productNumber" : "HW2300120",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "120",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "638.19",
+		"harborTime" : "803.39"
+	}],
+	"139": [{
+		"productNumber" : "HW2400110",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "110",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "637.6",
+		"harborTime" : "818.27"
+	}],
+	"140": [{
+		"productNumber" : "HW2500120",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "120",
+		"lengthFt" : "25",
+		"lengthIn" : "0",
+		"shelterRite" : "660.48",
+		"harborTime" : "846.09"
+	}],
+	"141": [{
+		"productNumber" : "HW2600110",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "110",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "668.72",
+		"harborTime" : "857.29"
+	}],
+	"142": [{
+		"productNumber" : "HW2700120",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "120",
+		"lengthFt" : "27",
+		"lengthIn" : "0",
+		"shelterRite" : "690.62",
+		"harborTime" : "884.82"
+	}],
+	"143": [{
+		"productNumber" : "HW2800110",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "110",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "699.59",
+		"harborTime" : "896.06"
+	}],
+	"144": [{
+		"productNumber" : "HW2900120",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "120",
+		"lengthFt" : "29",
+		"lengthIn" : "0",
+		"shelterRite" : "721.07",
+		"harborTime" : "923.54"
+	}],
+	"145": [{
+		"productNumber" : "HW3000110",
+		"brandName" : "Hewitt Deluxe Front",
+		"width" : "110",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "730.62",
+		"harborTime" : "934.41"
+	}],
+	"146": [{
+		"productNumber" : "HWA1000100",
+		"brandName" : "Hewitt Flat Front",
+		"width" : "100",
+		"lengthFt" : "10",
+		"lengthIn" : "0",
+		"shelterRite" : "415.41",
+		"harborTime" : "522.21"
+	}],
+	"147": [{
+		"productNumber" : "HWA1000110",
+		"brandName" : "Hewitt Flat Front",
+		"width" : "110",
+		"lengthFt" : "10",
+		"lengthIn" : "0",
+		"shelterRite" : "432.47",
+		"harborTime" : "546.32"
+	}],
+	"148": [{
+		"productNumber" : "HWA1200100",
+		"brandName" : "Hewitt Flat Front",
+		"width" : "100",
+		"lengthFt" : "12",
+		"lengthIn" : "0",
+		"shelterRite" : "419.53",
+		"harborTime" : "549.98"
+	}],
+	"149": [{
+		"productNumber" : "HWA1200110",
+		"brandName" : "Hewitt Flat Front",
+		"width" : "110",
+		"lengthFt" : "12",
+		"lengthIn" : "0",
+		"shelterRite" : "494.24",
+		"harborTime" : "580.73"
+	}],
+	"150": [{
+		"productNumber" : "HWA1800100",
+		"brandName" : "Hewitt Flat Front",
+		"width" : "100",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "499.82",
+		"harborTime" : "633.66"
+	}],
+	"151": [{
+		"productNumber" : "HWA1800110",
+		"brandName" : "Hewitt Flat Front",
+		"width" : "110",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "553.27",
+		"harborTime" : "685.03"
+	}],
+	"152": [{
+		"productNumber" : "HWA2000100",
+		"brandName" : "Hewitt Flat Front",
+		"width" : "100",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "519.19",
+		"harborTime" : "669.12"
+	}],
+	"153": [{
+		"productNumber" : "HWA2000110",
+		"brandName" : "Hewitt Flat Front",
+		"width" : "110",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "579.29",
+		"harborTime" : "718.79"
+	}],
+	"154": [{
+		"productNumber" : "HWA2000120",
+		"brandName" : "Hewitt Flat Front",
+		"width" : "120",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "600.57",
+		"harborTime" : "801.4"
+	}],
+	"155": [{
+		"productNumber" : "SS1300062",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "62",
+		"lengthFt" : "13",
+		"lengthIn" : "0",
+		"shelterRite" : "411.12",
+		"harborTime" : "471.36"
+	}],
+	"156": [{
+		"productNumber" : "SS1300108",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "108",
+		"lengthFt" : "13",
+		"lengthIn" : "0",
+		"shelterRite" : "498.64",
+		"harborTime" : "548.19"
+	}],
+	"157": [{
+		"productNumber" : "SS1800100",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "100",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "555.73",
+		"harborTime" : "660.46"
+	}],
+	"158": [{
+		"productNumber" : "SS2000088",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "88",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "534.5",
+		"harborTime" : "635.5"
+	}],
+	"159": [{
+		"productNumber" : "SS2000100",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "100",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "591.59",
+		"harborTime" : "691.4"
+	}],
+	"160": [{
+		"productNumber" : "SS2000108",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "108",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "581.4",
+		"harborTime" : "702.72"
+	}],
+	"161": [{
+		"productNumber" : "SS2200100",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "100",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "585.14",
+		"harborTime" : "722.57"
+	}],
+	"162": [{
+		"productNumber" : "SS2200108",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "608.51",
+		"harborTime" : "734.11"
+	}],
+	"163": [{
+		"productNumber" : "SS2200120",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "120",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "646.19",
+		"harborTime" : "786.89"
+	}],
+	"164": [{
+		"productNumber" : "SS2400108",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "635.02",
+		"harborTime" : "766.34"
+	}],
+	"165": [{
+		"productNumber" : "SS2400120",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "680.72",
+		"harborTime" : "780.61"
+	}],
+	"166": [{
+		"productNumber" : "SS2600108",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "661.53",
+		"harborTime" : "796.76"
+	}],
+	"167": [{
+		"productNumber" : "SS2600120",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "702.89",
+		"harborTime" : "810.7"
+	}],
+	"168": [{
+		"productNumber" : "SS2600132",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "132",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "750.96",
+		"harborTime" : "916.28"
+	}],
+	"169": [{
+		"productNumber" : "SS2800120",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "737.16",
+		"harborTime" : "902.06"
+	}],
+	"170": [{
+		"productNumber" : "SS3000120",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "120",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "749.04",
+		"harborTime" : "873.09"
+	}],
+	"171": [{
+		"productNumber" : "SS3000132",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "132",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "804.95",
+		"harborTime" : "973.37"
+	}],
+	"172": [{
+		"productNumber" : "SS3400132",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "132",
+		"lengthFt" : "34",
+		"lengthIn" : "0",
+		"shelterRite" : "861.14",
+		"harborTime" : "1018.01"
+	}],
+	"173": [{
+		"productNumber" : "SS3600144",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "144",
+		"lengthFt" : "36",
+		"lengthIn" : "0",
+		"shelterRite" : "949.64",
+		"harborTime" : "1144.83"
+	}],
+	"174": [{
+		"productNumber" : "SS4000144",
+		"brandName" : "ShoreStation® Aluminum",
+		"width" : "144",
+		"lengthFt" : "40",
+		"lengthIn" : "0",
+		"shelterRite" : "1007.49",
+		"harborTime" : "1518.0"
+	}],
+	"175": [{
+		"productNumber" : "MS1900082",
+		"brandName" : "ShoreStation® Steel",
+		"width" : "82",
+		"lengthFt" : "19",
+		"lengthIn" : "0",
+		"shelterRite" : "472.86",
+		"harborTime" : "650.6"
+	}],
+	"176": [{
+		"productNumber" : "MS1900098",
+		"brandName" : "ShoreStation® Steel",
+		"width" : "98",
+		"lengthFt" : "19",
+		"lengthIn" : "0",
+		"shelterRite" : "549.7",
+		"harborTime" : "1001.52"
+	}],
+	"177": [{
+		"productNumber" : "MS2100098",
+		"brandName" : "ShoreStation® Steel",
+		"width" : "98",
+		"lengthFt" : "21",
+		"lengthIn" : "0",
+		"shelterRite" : "570.88",
+		"harborTime" : "830.38"
+	}],
+	"178": [{
+		"productNumber" : "MS2300098",
+		"brandName" : "ShoreStation® Steel",
+		"width" : "98",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "589.87",
+		"harborTime" : "871.85"
+	}],
+	"179": [{
+		"productNumber" : "MS2300110",
+		"brandName" : "ShoreStation® Steel",
+		"width" : "110",
+		"lengthFt" : "23",
+		"lengthIn" : "0",
+		"shelterRite" : "606.97",
+		"harborTime" : "898.35"
+	}],
+	"180": [{
+		"productNumber" : "LS1800100",
+		"brandName" : "Lake Shore Products",
+		"width" : "100",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "555.73",
+		"harborTime" : "660.46"
+	}],
+	"181": [{
+		"productNumber" : "LS2000100",
+		"brandName" : "Lake Shore Products",
+		"width" : "100",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "591.59",
+		"harborTime" : "691.41"
+	}],
+	"182": [{
+		"productNumber" : "LS2200108",
+		"brandName" : "Lake Shore Products",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "608.51",
+		"harborTime" : "734.11"
+	}],
+	"183": [{
+		"productNumber" : "LS2200120",
+		"brandName" : "Lake Shore Products",
+		"width" : "120",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "651.87",
+		"harborTime" : "750.36"
+	}],
+	"184": [{
+		"productNumber" : "LS2400108",
+		"brandName" : "Lake Shore Products",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "635.02",
+		"harborTime" : "766.34"
+	}],
+	"185": [{
+		"productNumber" : "LS2400120",
+		"brandName" : "Lake Shore Products",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "680.72",
+		"harborTime" : "780.6"
+	}],
+	"186": [{
+		"productNumber" : "LS2600108",
+		"brandName" : "Lake Shore Products",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "661.53",
+		"harborTime" : "796.76"
+	}],
+	"187": [{
+		"productNumber" : "LS2600120",
+		"brandName" : "Lake Shore Products",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "702.89",
+		"harborTime" : "810.7"
+	}],
+	"188": [{
+		"productNumber" : "LS2800120",
+		"brandName" : "Lake Shore Products",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "743.9",
+		"harborTime" : "858.17"
+	}],
+	"189": [{
+		"productNumber" : "LS3000120",
+		"brandName" : "Lake Shore Products",
+		"width" : "120",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "749.04",
+		"harborTime" : "873.09"
+	}],
+	"190": [{
+		"productNumber" : "MX1800108",
+		"brandName" : "Max Docks",
+		"width" : "108",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "678.82",
+		"harborTime" : "810.3"
+	}],
+	"191": [{
+		"productNumber" : "MX1800122",
+		"brandName" : "Max Docks",
+		"width" : "122",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "702.45",
+		"harborTime" : "942.64"
+	}],
+	"192": [{
+		"productNumber" : "MX2000108",
+		"brandName" : "Max Docks",
+		"width" : "108",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "709.63",
+		"harborTime" : "850.55"
+	}],
+	"193": [{
+		"productNumber" : "MX2200108",
+		"brandName" : "Max Docks",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "740.35",
+		"harborTime" : "890.72"
+	}],
+	"194": [{
+		"productNumber" : "MX2200122",
+		"brandName" : "Max Docks",
+		"width" : "122",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "757.53",
+		"harborTime" : "1046.68"
+	}],
+	"195": [{
+		"productNumber" : "MX2400108",
+		"brandName" : "Max Docks",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "771.0",
+		"harborTime" : "930.8"
+	}],
+	"196": [{
+		"productNumber" : "MX2400122",
+		"brandName" : "Max Docks",
+		"width" : "122",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "785.08",
+		"harborTime" : "1098.7"
+	}],
+	"197": [{
+		"productNumber" : "MX2600108",
+		"brandName" : "Max Docks",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "801.53",
+		"harborTime" : "970.75"
+	}],
+	"198": [{
+		"productNumber" : "MX2600122",
+		"brandName" : "Max Docks",
+		"width" : "122",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "816.28",
+		"harborTime" : "1150.43"
+	}],
+	"199": [{
+		"productNumber" : "MX2800108",
+		"brandName" : "Max Docks",
+		"width" : "108",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "871.97",
+		"harborTime" : "1010.86"
+	}],
+	"200": [{
+		"productNumber" : "MX2800122",
+		"brandName" : "Max Docks",
+		"width" : "122",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "845.81",
+		"harborTime" : "1202.44"
+	}],
+	"201": [{
+		"productNumber" : "MX3000108",
+		"brandName" : "Max Docks",
+		"width" : "108",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "906.1",
+		"harborTime" : "1051.01"
+	}],
+	"202": [{
+		"productNumber" : "MX3000122",
+		"brandName" : "Max Docks",
+		"width" : "122",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "862.92",
+		"harborTime" : "1254.07"
+	}],
+	"203": [{
+		"productNumber" : "MX3200122",
+		"brandName" : "Max Docks",
+		"width" : "122",
+		"lengthFt" : "32",
+		"lengthIn" : "0",
+		"shelterRite" : "935.81",
+		"harborTime" : "1482.09"
+	}],
+	"204": [{
+		"productNumber" : "MXT2200122",
+		"brandName" : "Max Docks Tower",
+		"width" : "122",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "864.26",
+		"harborTime" : "0.0"
+	}],
+	"205": [{
+		"productNumber" : "MXT2400122",
+		"brandName" : "Max Docks Tower",
+		"width" : "122",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "793.23",
+		"harborTime" : "0.0"
+	}],
+	"206": [{
+		"productNumber" : "MXT2600122",
+		"brandName" : "Max Docks Tower",
+		"width" : "122",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "824.43",
+		"harborTime" : "0.0"
+	}],
+	"207": [{
+		"productNumber" : "MXT2800122",
+		"brandName" : "Max Docks Tower",
+		"width" : "122",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "855.94",
+		"harborTime" : "0.0"
+	}],
+	"208": [{
+		"productNumber" : "MXT3000122",
+		"brandName" : "Max Docks Tower",
+		"width" : "122",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "886.43",
+		"harborTime" : "0.0"
+	}],
+	"209": [{
+		"productNumber" : "NM1200054",
+		"brandName" : "Newmans",
+		"width" : "54",
+		"lengthFt" : "12",
+		"lengthIn" : "0",
+		"shelterRite" : "412.78",
+		"harborTime" : "485.69"
+	}],
+	"210": [{
+		"productNumber" : "NM1600084",
+		"brandName" : "Newmans",
+		"width" : "84",
+		"lengthFt" : "16",
+		"lengthIn" : "0",
+		"shelterRite" : "511.36",
+		"harborTime" : "600.5"
+	}],
+	"211": [{
+		"productNumber" : "NM2000084",
+		"brandName" : "Newmans",
+		"width" : "84",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "511.36",
+		"harborTime" : "600.5"
+	}],
+	"212": [{
+		"productNumber" : "NM2000096",
+		"brandName" : "Newmans",
+		"width" : "96",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "530.52",
+		"harborTime" : "650.06"
+	}],
+	"213": [{
+		"productNumber" : "NM2000108",
+		"brandName" : "Newmans",
+		"width" : "108",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "567.69",
+		"harborTime" : "673.99"
+	}],
+	"214": [{
+		"productNumber" : "NM2200108",
+		"brandName" : "Newmans",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "575.51",
+		"harborTime" : "699.69"
+	}],
+	"215": [{
+		"productNumber" : "NM2400096",
+		"brandName" : "Newmans",
+		"width" : "96",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "575.51",
+		"harborTime" : "699.69"
+	}],
+	"216": [{
+		"productNumber" : "NM2400108",
+		"brandName" : "Newmans",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "597.72",
+		"harborTime" : "719.98"
+	}],
+	"217": [{
+		"productNumber" : "NM2400120",
+		"brandName" : "Newmans",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "617.04",
+		"harborTime" : "730.84"
+	}],
+	"218": [{
+		"productNumber" : "NM2600108",
+		"brandName" : "Newmans",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "617.04",
+		"harborTime" : "730.84"
+	}],
+	"219": [{
+		"productNumber" : "NM2600120",
+		"brandName" : "Newmans",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "617.04",
+		"harborTime" : "730.84"
+	}],
+	"220": [{
+		"productNumber" : "NM2800108",
+		"brandName" : "Newmans",
+		"width" : "108",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "617.04",
+		"harborTime" : "730.84"
+	}],
+	"221": [{
+		"productNumber" : "NM2800120",
+		"brandName" : "Newmans",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "666.18",
+		"harborTime" : "793.87"
+	}],
+	"222": [{
+		"productNumber" : "NM3000120",
+		"brandName" : "Newmans",
+		"width" : "120",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "666.18",
+		"harborTime" : "793.87"
+	}],
+	"223": [{
+		"productNumber" : "CL2000096",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "96",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "585.71",
+		"harborTime" : "786.34"
+	}],
+	"224": [{
+		"productNumber" : "CL2200096",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "96",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "610.17",
+		"harborTime" : "826.44"
+	}],
+	"225": [{
+		"productNumber" : "CL2200108",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "621.65",
+		"harborTime" : "737.41"
+	}],
+	"226": [{
+		"productNumber" : "CL2200114",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "114",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "622.57",
+		"harborTime" : "917.91"
+	}],
+	"227": [{
+		"productNumber" : "CL2200120",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "120",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "697.6",
+		"harborTime" : "950.35"
+	}],
+	"228": [{
+		"productNumber" : "CL2400108",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "649.9",
+		"harborTime" : "881.48"
+	}],
+	"229": [{
+		"productNumber" : "CL2400114",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "114",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "656.07",
+		"harborTime" : "959.11"
+	}],
+	"230": [{
+		"productNumber" : "CL2400120",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "721.52",
+		"harborTime" : "990.61"
+	}],
+	"231": [{
+		"productNumber" : "CL2600108",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "680.01",
+		"harborTime" : "918.99"
+	}],
+	"232": [{
+		"productNumber" : "CL2600114",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "114",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "686.26",
+		"harborTime" : "1002.29"
+	}],
+	"233": [{
+		"productNumber" : "CL2600120",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "747.97",
+		"harborTime" : "1033.79"
+	}],
+	"234": [{
+		"productNumber" : "CL2800114",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "114",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "716.43",
+		"harborTime" : "1045.32"
+	}],
+	"235": [{
+		"productNumber" : "CL2800120",
+		"brandName" : "Nucraft Craftlander",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "774.43",
+		"harborTime" : "921.1"
+	}],
+	"236": [{
+		"productNumber" : "CLT2200108",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "656.26",
+		"harborTime" : "0.0"
+	}],
+	"237": [{
+		"productNumber" : "CLT2200120",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "120",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "712.11",
+		"harborTime" : "0.0"
+	}],
+	"238": [{
+		"productNumber" : "CLT2400108",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "682.55",
+		"harborTime" : "0.0"
+	}],
+	"239": [{
+		"productNumber" : "CLT2400120",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "740.2",
+		"harborTime" : "0.0"
+	}],
+	"240": [{
+		"productNumber" : "CLT2600108",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "708.83",
+		"harborTime" : "0.0"
+	}],
+	"241": [{
+		"productNumber" : "CLT2600120",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "771.9",
+		"harborTime" : "0.0"
+	}],
+	"242": [{
+		"productNumber" : "CLT2800108",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "108",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "735.27",
+		"harborTime" : "0.0"
+	}],
+	"243": [{
+		"productNumber" : "CLT2800120",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "801.71",
+		"harborTime" : "0.0"
+	}],
+	"244": [{
+		"productNumber" : "CLTZ2200108",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "696.86",
+		"harborTime" : "0.0"
+	}],
+	"245": [{
+		"productNumber" : "CLTZ2200120",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "120",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "753.31",
+		"harborTime" : "0.0"
+	}],
+	"246": [{
+		"productNumber" : "CLTZ2400108",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "723.14",
+		"harborTime" : "0.0"
+	}],
+	"247": [{
+		"productNumber" : "CLTZ2400120",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "781.4",
+		"harborTime" : "0.0"
+	}],
+	"248": [{
+		"productNumber" : "CLTZ2600108",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "749.41",
+		"harborTime" : "0.0"
+	}],
+	"249": [{
+		"productNumber" : "CLTZ2600120",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "813.09",
+		"harborTime" : "0.0"
+	}],
+	"250": [{
+		"productNumber" : "CLTZ2800108",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "108",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "775.86",
+		"harborTime" : "0.0"
+	}],
+	"251": [{
+		"productNumber" : "CLTZ2800120",
+		"brandName" : "Nucraft Craftlander High Top Canopy",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "842.91",
+		"harborTime" : "0.0"
+	}],
+	"252": [{
+		"productNumber" : "PP1200114",
+		"brandName" : "Pier Pleasure",
+		"width" : "114",
+		"lengthFt" : "12",
+		"lengthIn" : "0",
+		"shelterRite" : "444.52",
+		"harborTime" : "592.47"
+	}],
+	"253": [{
+		"productNumber" : "PP1400096",
+		"brandName" : "Pier Pleasure",
+		"width" : "96",
+		"lengthFt" : "14",
+		"lengthIn" : "0",
+		"shelterRite" : "472.21",
+		"harborTime" : "616.89"
+	}],
+	"254": [{
+		"productNumber" : "PP1400114",
+		"brandName" : "Pier Pleasure",
+		"width" : "114",
+		"lengthFt" : "14",
+		"lengthIn" : "0",
+		"shelterRite" : "482.29",
+		"harborTime" : "627.84"
+	}],
+	"255": [{
+		"productNumber" : "PP1600096",
+		"brandName" : "Pier Pleasure",
+		"width" : "96",
+		"lengthFt" : "16",
+		"lengthIn" : "0",
+		"shelterRite" : "498.52",
+		"harborTime" : "651.32"
+	}],
+	"256": [{
+		"productNumber" : "PP1800096",
+		"brandName" : "Pier Pleasure",
+		"width" : "96",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "525.01",
+		"harborTime" : "685.98"
+	}],
+	"257": [{
+		"productNumber" : "PP1800108",
+		"brandName" : "Pier Pleasure",
+		"width" : "108",
+		"lengthFt" : "18",
+		"lengthIn" : "0",
+		"shelterRite" : "541.6",
+		"harborTime" : "672.28"
+	}],
+	"258": [{
+		"productNumber" : "PP2000096",
+		"brandName" : "Pier Pleasure",
+		"width" : "96",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "571.31",
+		"harborTime" : "720.73"
+	}],
+	"259": [{
+		"productNumber" : "PP2000108",
+		"brandName" : "Pier Pleasure",
+		"width" : "108",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "578.04",
+		"harborTime" : "706.27"
+	}],
+	"260": [{
+		"productNumber" : "PP2200096",
+		"brandName" : "Pier Pleasure",
+		"width" : "96",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "586.07",
+		"harborTime" : "755.52"
+	}],
+	"261": [{
+		"productNumber" : "PP2200108",
+		"brandName" : "Pier Pleasure",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "606.1",
+		"harborTime" : "740.22"
+	}],
+	"262": [{
+		"productNumber" : "PP2200114",
+		"brandName" : "Pier Pleasure",
+		"width" : "114",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "620.79",
+		"harborTime" : "758.9"
+	}],
+	"263": [{
+		"productNumber" : "PP2400108",
+		"brandName" : "Pier Pleasure",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "634.24",
+		"harborTime" : "773.72"
+	}],
+	"264": [{
+		"productNumber" : "PP2400114",
+		"brandName" : "Pier Pleasure",
+		"width" : "114",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "645.59",
+		"harborTime" : "792.89"
+	}],
+	"265": [{
+		"productNumber" : "PP2400120",
+		"brandName" : "Pier Pleasure",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "646.85",
+		"harborTime" : "901.01"
+	}],
+	"266": [{
+		"productNumber" : "PP2600108",
+		"brandName" : "Pier Pleasure",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "662.15",
+		"harborTime" : "808.02"
+	}],
+	"267": [{
+		"productNumber" : "PP2600114",
+		"brandName" : "Pier Pleasure",
+		"width" : "114",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "670.3",
+		"harborTime" : "826.85"
+	}],
+	"268": [{
+		"productNumber" : "PP2600120",
+		"brandName" : "Pier Pleasure",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "671.57",
+		"harborTime" : "944.03"
+	}],
+	"269": [{
+		"productNumber" : "PP2800114",
+		"brandName" : "Pier Pleasure",
+		"width" : "114",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "695.1",
+		"harborTime" : "859.39"
+	}],
+	"270": [{
+		"productNumber" : "PP2800120",
+		"brandName" : "Pier Pleasure",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "696.38",
+		"harborTime" : "987.2"
+	}],
+	"271": [{
+		"productNumber" : "PP3000114",
+		"brandName" : "Pier Pleasure",
+		"width" : "114",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "697.2",
+		"harborTime" : "894.38"
+	}],
+	"272": [{
+		"productNumber" : "PP3000120",
+		"brandName" : "Pier Pleasure",
+		"width" : "120",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "698.5",
+		"harborTime" : "1030.14"
+	}],
+	"273": [{
+		"productNumber" : "PP3200120",
+		"brandName" : "Pier Pleasure",
+		"width" : "120",
+		"lengthFt" : "32",
+		"lengthIn" : "0",
+		"shelterRite" : "722.64",
+		"harborTime" : "1072.75"
+	}],
+	"274": [{
+		"productNumber" : "PP3400120",
+		"brandName" : "Pier Pleasure",
+		"width" : "120",
+		"lengthFt" : "34",
+		"lengthIn" : "0",
+		"shelterRite" : "747.04",
+		"harborTime" : "1115.96"
+	}],
+	"275": [{
+		"productNumber" : "PD2000084",
+		"brandName" : "Porta-Dock",
+		"width" : "84",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "538.4",
+		"harborTime" : "674.51"
+	}],
+	"276": [{
+		"productNumber" : "PD2000096",
+		"brandName" : "Porta-Dock",
+		"width" : "96",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "571.3",
+		"harborTime" : "703.06"
+	}],
+	"277": [{
+		"productNumber" : "PD2200096",
+		"brandName" : "Porta-Dock",
+		"width" : "96",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "597.83",
+		"harborTime" : "753.89"
+	}],
+	"278": [{
+		"productNumber" : "PD2200114",
+		"brandName" : "Porta-Dock",
+		"width" : "114",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "627.71",
+		"harborTime" : "776.01"
+	}],
+	"279": [{
+		"productNumber" : "PD2200120",
+		"brandName" : "Porta-Dock",
+		"width" : "120",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "668.1",
+		"harborTime" : "857.94"
+	}],
+	"280": [{
+		"productNumber" : "PD2400114",
+		"brandName" : "Porta-Dock",
+		"width" : "114",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "642.92",
+		"harborTime" : "811.03"
+	}],
+	"281": [{
+		"productNumber" : "PD2400120",
+		"brandName" : "Porta-Dock",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "697.01",
+		"harborTime" : "897.5"
+	}],
+	"282": [{
+		"productNumber" : "PD2600114",
+		"brandName" : "Porta-Dock",
+		"width" : "114",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "672.78",
+		"harborTime" : "846.02"
+	}],
+	"283": [{
+		"productNumber" : "PD2600120",
+		"brandName" : "Porta-Dock",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "727.4",
+		"harborTime" : "940.89"
+	}],
+	"284": [{
+		"productNumber" : "PD2800114",
+		"brandName" : "Porta-Dock",
+		"width" : "114",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "702.62",
+		"harborTime" : "881.2"
+	}],
+	"285": [{
+		"productNumber" : "PD2800120",
+		"brandName" : "Porta-Dock",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "748.03",
+		"harborTime" : "970.63"
+	}],
+	"286": [{
+		"productNumber" : "PD3000114",
+		"brandName" : "Porta-Dock",
+		"width" : "114",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "732.74",
+		"harborTime" : "916.39"
+	}],
+	"287": [{
+		"productNumber" : "PD3000120",
+		"brandName" : "Porta-Dock",
+		"width" : "120",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "787.38",
+		"harborTime" : "1025.91"
+	}],
+	"288": [{
+		"productNumber" : "RL2000096",
+		"brandName" : "RidgeLine",
+		"width" : "96",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "760.74",
+		"harborTime" : "1026.88"
+	}],
+	"289": [{
+		"productNumber" : "RL2000108",
+		"brandName" : "RidgeLine",
+		"width" : "108",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "774.08",
+		"harborTime" : "1041.83"
+	}],
+	"290": [{
+		"productNumber" : "RL2200120",
+		"brandName" : "RidgeLine",
+		"width" : "120",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "812.95",
+		"harborTime" : "1050.86"
+	}],
+	"291": [{
+		"productNumber" : "RL2400108",
+		"brandName" : "RidgeLine",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "833.99",
+		"harborTime" : "1069.17"
+	}],
+	"292": [{
+		"productNumber" : "RL2400120",
+		"brandName" : "RidgeLine",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "850.57",
+		"harborTime" : "1082.98"
+	}],
+	"293": [{
+		"productNumber" : "RL2600120",
+		"brandName" : "RidgeLine",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "882.81",
+		"harborTime" : "1102.78"
+	}],
+	"294": [{
+		"productNumber" : "RL2800120",
+		"brandName" : "RidgeLine",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "914.43",
+		"harborTime" : "1135.04"
+	}],
+	"295": [{
+		"productNumber" : "RL3000120",
+		"brandName" : "RidgeLine",
+		"width" : "120",
+		"lengthFt" : "30",
+		"lengthIn" : "0",
+		"shelterRite" : "977.95",
+		"harborTime" : "1217.65"
+	}],
+	"296": [{
+		"productNumber" : "RL3200120",
+		"brandName" : "RidgeLine",
+		"width" : "120",
+		"lengthFt" : "32",
+		"lengthIn" : "0",
+		"shelterRite" : "1015.3",
+		"harborTime" : "1265.82"
+	}],
+	"297": [{
+		"productNumber" : "VB2000096",
+		"brandName" : "Vibo",
+		"width" : "96",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "643.16",
+		"harborTime" : "743.91"
+	}],
+	"298": [{
+		"productNumber" : "VB2000108",
+		"brandName" : "Vibo",
+		"width" : "108",
+		"lengthFt" : "20",
+		"lengthIn" : "0",
+		"shelterRite" : "646.24",
+		"harborTime" : "756.72"
+	}],
+	"299": [{
+		"productNumber" : "VB2200096",
+		"brandName" : "Vibo",
+		"width" : "96",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "676.87",
+		"harborTime" : "780.64"
+	}],
+	"300": [{
+		"productNumber" : "VB2200108",
+		"brandName" : "Vibo",
+		"width" : "108",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "679.93",
+		"harborTime" : "793.41"
+	}],
+	"301": [{
+		"productNumber" : "VB2200114",
+		"brandName" : "Vibo",
+		"width" : "114",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "679.51",
+		"harborTime" : "914.87"
+	}],
+	"302": [{
+		"productNumber" : "VB2200120",
+		"brandName" : "Vibo",
+		"width" : "120",
+		"lengthFt" : "22",
+		"lengthIn" : "0",
+		"shelterRite" : "775.15",
+		"harborTime" : "921.99"
+	}],
+	"303": [{
+		"productNumber" : "VB2400096",
+		"brandName" : "Vibo",
+		"width" : "96",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "708.49",
+		"harborTime" : "816.72"
+	}],
+	"304": [{
+		"productNumber" : "VB2400108",
+		"brandName" : "Vibo",
+		"width" : "108",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "713.59",
+		"harborTime" : "829.53"
+	}],
+	"305": [{
+		"productNumber" : "VB2400114",
+		"brandName" : "Vibo",
+		"width" : "114",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "713.12",
+		"harborTime" : "959.58"
+	}],
+	"306": [{
+		"productNumber" : "VB2400120",
+		"brandName" : "Vibo",
+		"width" : "120",
+		"lengthFt" : "24",
+		"lengthIn" : "0",
+		"shelterRite" : "808.97",
+		"harborTime" : "967.55"
+	}],
+	"307": [{
+		"productNumber" : "VB2600096",
+		"brandName" : "Vibo",
+		"width" : "96",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "740.47",
+		"harborTime" : "853.2"
+	}],
+	"308": [{
+		"productNumber" : "VB2600108",
+		"brandName" : "Vibo",
+		"width" : "108",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "747.63",
+		"harborTime" : "865.99"
+	}],
+	"309": [{
+		"productNumber" : "VB2600114",
+		"brandName" : "Vibo",
+		"width" : "114",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "746.95",
+		"harborTime" : "1011.61"
+	}],
+	"310": [{
+		"productNumber" : "VB2600120",
+		"brandName" : "Vibo",
+		"width" : "120",
+		"lengthFt" : "26",
+		"lengthIn" : "0",
+		"shelterRite" : "832.14",
+		"harborTime" : "961.25"
+	}],
+	"311": [{
+		"productNumber" : "VB2800096",
+		"brandName" : "Vibo",
+		"width" : "96",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "774.17",
+		"harborTime" : "889.37"
+	}],
+	"312": [{
+		"productNumber" : "VB2800108",
+		"brandName" : "Vibo",
+		"width" : "108",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "781.29",
+		"harborTime" : "902.17"
+	}],
+	"313": [{
+		"productNumber" : "VB2800114",
+		"brandName" : "Vibo",
+		"width" : "114",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "780.81",
+		"harborTime" : "1050.07"
+	}],
+	"314": [{
+		"productNumber" : "VB2800120",
+		"brandName" : "Vibo",
+		"width" : "120",
+		"lengthFt" : "28",
+		"lengthIn" : "0",
+		"shelterRite" : "876.48",
+		"harborTime" : "1058.48"
+	}]
+}
