@@ -137,6 +137,17 @@ hr {
   margin-left: 8%;
 }
 
+.searchBox {
+  margin: auto;
+  font-weight: bold;
+}
+
+/*Table CSS*/
+table {
+  width: 90%;
+  padding: 5%;
+}
+
 <!--[if lte IE 7]>
 <style>
 .content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */

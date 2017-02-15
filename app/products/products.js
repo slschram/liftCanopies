@@ -17,7 +17,7 @@ angular.module('myApp.products', ['ngRoute'])
       // Variables to filter the table data
       $scope.sortType = 'productNumber'; // set the default sort type
       $scope.sortReverse = false;  // set the default sort order
-      $scope.searchFish = '';     // set the default search/filter term
+      $scope.searchProducts = '';     // set the default search/filter term
 
     }).error(function(data, status, headers, config) {
   });
