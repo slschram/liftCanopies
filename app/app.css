@@ -94,22 +94,21 @@ ul {
   list-style-type: none;
   padding-left: 5%;
 }
+/*Table CSS*/
 table {
-  margin-left: 5%;
+  width: 90%;
+  padding: 5%;
+  margin: auto;
 }
 tr, td {
-  padding-left: 2%;
+  padding: .5%;
+  margin: auto;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
 }
 caption {
   text-align: left;
-}
-/*Toggle*/
-h2.1, h2.2, h2.3, h2.4 {
-  font-color: #0000CC;
-  visibility:hidden;
-}
-table.1, table.2, p.2 {
-  visibility:hidden;
 }
 .content {
   float:left;
@@ -142,11 +141,6 @@ hr {
   font-weight: bold;
 }
 
-/*Table CSS*/
-table {
-  width: 90%;
-  padding: 5%;
-}
 
 <!--[if lte IE 7]>
 <style>
