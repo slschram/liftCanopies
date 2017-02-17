@@ -121,13 +121,28 @@ caption {
   margin-left: 3em;
   width:55%;
 }
-.image {
+.colors {
   margin-top: 1em;
   margin-right: 2em;
   float:right;
   width:35%;
   align-content: center;
   vertical-align: baseline;
+}
+.image {
+  /*margin-top: 1%;*/
+  margin: 1% auto 0 auto;
+  padding-right: .12em;
+  float:center;
+  align-content: center;
+  vertical-align: baseline;
+  width:95%;
+  border: 4px groove #BF2025;
+}
+.image img {
+  /*border-style: solid;
+  border-color: #102441;*/
+  border: 1px dashed #102441;
 }
 .clear {
   clear: both;
