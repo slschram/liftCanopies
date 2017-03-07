@@ -21,7 +21,7 @@ body {
   border: none;
   background-color: #FFFFFF;
   padding: 1%;
-  overflow: hidden;
+  overflow: auto;
 }
 .bottomBar {
   margin-bottom: 0;
