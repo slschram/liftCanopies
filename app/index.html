@@ -20,9 +20,9 @@
   <center><img src = "images/headBar.jpg" width="100%"; height="5%";></img></center>
 
   <ul class="menu">
-    <li><a href="#!/about">ABOUT US</a></li>
-    <li><a href="#!/products">PRODUCTS</a></li>
-    <li><a href="#!/order">ORDER</a></li>
+    <li ng-click="myStyle={color:'#FFFFFF'}"><a href="#!/about" ng-style="myStyle">ABOUT US</a></li>
+    <li><a href="#!/products" ng-class="{'btn-primary': display.products}" ng-click="showMoreFunc('products')" >PRODUCTS</a></li>
+    <li><a href="#!/order" ng-class="{'btn-primary': display.order}" ng-click="showMoreFunc('order')" >ORDER</a></li>
   </ul>
 
   <!--[if lt IE 7]>

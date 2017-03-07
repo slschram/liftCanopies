@@ -19,6 +19,15 @@ angular.module('myApp.products', ['ngRoute'])
       $scope.sortReverse = false;  // set the default sort order
       $scope.searchProducts = '';     // set the default search/filter term
 
+      // Highlight selected row
+      $scope.selectedObject = {};
+      $scope.selectItem = function (object) {
+          if ($scope.selectedObject == object) //reference equality should be sufficient
+              $scope.selectedObject = {}; //de-select if the same object was re-clicked
+          else
+              $scope.selectedObject = object;
+      };
+
     }).error(function(data, status, headers, config) {
   });
 }]);

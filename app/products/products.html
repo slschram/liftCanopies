@@ -92,7 +92,18 @@
   </tr>
 </thead>
   <tbody>
-    <tr ng-repeat="object in data | orderBy:sortType:sortReverse | filter:searchProducts">
+    <tr ng-repeat="object in data | orderBy:sortType:sortReverse | filter:searchProducts"
+    ng-init="object.isred = false"
+    ng-class-odd="'odd'" ng-class-even="'even'"
+    ng-class="{red : object == selectedObject}"
+    ng-click="selectItem(object)">
+
+    <!-- For selecting multiple: -->
+    <!-- <tr ng-repeat="object in data | orderBy:sortType:sortReverse | filter:searchProducts"
+    ng-init="object.isred = false"
+    ng-class-odd="'odd'" ng-class-even="'even'"
+    ng-class="{red : object.isred }"
+    ng-click="object.isyellow =!object.isred"> -->
       <td>{{object.productNumber}}</td>
       <td>{{object.brandName}}</td>
       <td>{{object.lengthFt}}'{{object.lengthIn}}" x {{object.width}}"</td>
