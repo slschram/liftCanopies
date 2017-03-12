@@ -12,4 +12,21 @@ config(['$locationProvider', '$routeProvider', function($locationProvider, $rout
   $locationProvider.hashPrefix('!');
 
   $routeProvider.otherwise({redirectTo: '/about'});
-}]);
+}])
+.controller('mycontroller', function($scope) {
+  $scope.showMoreFunc = function(view) {
+    if(view == "about") {
+        $scope.about = true;
+        $scope.products = false;
+        $scope.order = false;
+    } else if (view == "products") {
+        $scope.products = true;
+        $scope.about = false;
+        $scope.order = false;
+    } else {
+        $scope.order = true;
+        $scope.about = false;
+        $scope.products = false;
+    }
+  }
+});

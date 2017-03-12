@@ -60,6 +60,11 @@ body {
   padding-right: 1em;
   padding-left: 1em;
 }
+.active {
+  color: #ffffff;
+  text-decoration-color: #ffffff;
+}
+
 /*unvisited link*/
 a:link {
   color: #0000CC;

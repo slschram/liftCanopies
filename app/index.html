@@ -16,14 +16,14 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body ng-app="myApp">
-<div class="container">
+<div class="container" ng-controller="mycontroller">
   <!--The head bar/logo of the page-->
   <center><img src = "images/headBar.jpg" width="100%"; height="5%";></img></center>
 
   <ul class="menu">
-    <li><a href="#!/about">ABOUT US</a></li>
-    <li><a href="#!/products">PRODUCTS</a></li>
-    <li><a href="#!/order">ORDER</a></li>
+    <li id='1' ng-class='{"active":tog==1}' ng-click='tog=1' ><a ng-href="#!/about">ABOUT US</a></li>
+    <li id='2' ng-class='{"active":tog==2}' ng-click='tog=2' ><a ng-href="#!/products">PRODUCTS</a></li>
+    <li id='3' ng-class='{"active":tog==3}' ng-click='tog=3' ><a ng-href="#!/order">ORDER</a></li>
   </ul>
 
   <!--[if lt IE 7]>
