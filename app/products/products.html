@@ -11,8 +11,8 @@
 
 <hr>
 <!-- Shelter-Rite Material -->
-<div class="image">
-  <img src = "images/shelterRiteDOTS.jpg" width="90%";></img>
+<div class="colors">
+  <img src = "images/shelterRiteDOTS.jpg" width="90%"></img>
 </div>
 <div class="fabric">
   <h4>Shelter-Rite®</h4>
@@ -34,8 +34,8 @@
     coating on both sides of the material. Six available color options:
   </p>
 </div>
-<div class="image">
-  <img src = "images/harborTimeDOTS.jpg" width="90%";></img>
+<div class="colors">
+  <img src = "images/harborTimeDOTS.jpg" width="90%"></img>
 </div>
 <div class="clear"></div>
 <hr>
@@ -51,10 +51,10 @@
 </form>
 <br>
 <!-- BEGIN TABLE -->
-<table>
+<table style="width:90%">
   <thead>
   <tr>
-    <td style="width:10%">
+    <td style="width:14%">
       <a href="" ng-click="sortType = 'productNumber'; sortReverse = !sortReverse">
         Product ID
         <span ng-show="sortType == 'productNumber' && !sortReverse" class="fa fa-caret-down"></span>
@@ -68,23 +68,23 @@
         <span ng-show="sortType == 'brandName' && sortReverse" class="fa fa-caret-up"></span>
       </a>
     </td>
-    <td style="width:12%">
+    <td style="width:18%">
       <a href="" ng-click="sortType = 'width'; sortReverse = !sortReverse">
       Canopy Size
         <span ng-show="sortType == 'width' && !sortReverse" class="fa fa-caret-down"></span>
         <span ng-show="sortType == 'width' && sortReverse" class="fa fa-caret-up"></span>
       </a>
     </td>
-    <td style="width:12%">
+    <td style="width:19%">
       <a href="" ng-click="sortType = 'shelterRite'; sortReverse = !sortReverse">
-      $Shelter-Rite
+      Shelter-Rite®
         <span ng-show="sortType == 'shelterRite' && !sortReverse" class="fa fa-caret-down"></span>
         <span ng-show="sortType == 'shelterRite' && sortReverse" class="fa fa-caret-up"></span>
       </a>
     </td>
-    <td style="width:12%">
+    <td style="width:19%">
       <a href="" ng-click="sortType = 'harborTime'; sortReverse = !sortReverse">
-      $Harbor-Time
+      Harbor-Time™
         <span ng-show="sortType == 'harborTime' && !sortReverse" class="fa fa-caret-down"></span>
         <span ng-show="sortType == 'harborTime' && sortReverse" class="fa fa-caret-up"></span>
       </a>
@@ -92,12 +92,23 @@
   </tr>
 </thead>
   <tbody>
-    <tr ng-repeat="object in data | orderBy:sortType:sortReverse | filter:searchProducts">
+    <tr ng-repeat="object in data | orderBy:sortType:sortReverse | filter:searchProducts"
+    ng-init="object.isred = false"
+    ng-class-odd="'odd'" ng-class-even="'even'"
+    ng-class="{red : object == selectedObject}"
+    ng-click="selectItem(object)">
+
+    <!-- For selecting multiple: -->
+    <!-- <tr ng-repeat="object in data | orderBy:sortType:sortReverse | filter:searchProducts"
+    ng-init="object.isred = false"
+    ng-class-odd="'odd'" ng-class-even="'even'"
+    ng-class="{red : object.isred }"
+    ng-click="object.isyellow =!object.isred"> -->
       <td>{{object.productNumber}}</td>
       <td>{{object.brandName}}</td>
       <td>{{object.lengthFt}}'{{object.lengthIn}}" x {{object.width}}"</td>
-      <td>{{object.shelterRite}}</td>
-      <td>{{object.harborTime}}</td>
+      <td>{{object.shelterRite | currency: '$'}}</td>
+      <td>{{object.harborTime | currency: '$'}}</td>
     </tr>
   </tbody>
 </table>
