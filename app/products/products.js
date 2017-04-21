@@ -21,7 +21,6 @@ angular.module('myApp.products', ['ngRoute'])
 
       $scope.selectItem = function (object) {
         $scope.selectedObject = object;
-        console.log("passing: " + object);
         shareDataService.setCurrentProduct(object);
         $location.path( '/order' );
       };

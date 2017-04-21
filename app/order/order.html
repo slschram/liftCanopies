@@ -1,33 +1,72 @@
 <h2>ORDER</h2>
-<p>Please be patient with us during construction! We have PayPal implemented in
-   our site to allow you to purchase products online. If you have issues
+<p>Please be patient with us during construction! If you have issues
    purchasing online, please call us at (952) 201-6100 to place an order or to
    get more information.</p>
 
-<br />
-<h4>You've Selected:</h4><br />
+<div ng-if="!product">
+    <p><i>Please select a product from the products page.</i></p>
+</div>
 
-{{product.productNumber}}<br />
-{{product.brandName}}<br />
-{{product.lengthFt}}'{{product.lengthIn}}" x {{product.width}}"<br />
-{{product.shelterRite | currency: '$'}}<br />
-{{product.harborTime | currency: '$'}}<br />
+<div ng-if="product">
+  <br />
+  <div class="selectedProd">
+    <h4>You've Selected:</h4>
+    <div class="indented">
+      {{product.productNumber}}<br />
+      {{product.brandName}}<br />
+      {{product.lengthFt}}'{{product.lengthIn}}" x {{product.width}}"
+      <div ng-show="shelterrite">
+        Shelter-Rite® <br /> Price: {{product.shelterRite | currency: '$'}} <br />
+      </div>
+      <div ng-show="harbortime">
+        Harbor-Time™ <br /> Price: {{product.harborTime | currency: '$'}}<br />
+      </div>
+      <span ng-show="colrs">Color: {{colrs.colors}}</span>
+    </div>
+  </div>
 
-<!-- Shelter-Rite
-Beach King Tower
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="TBMH56RM2Z9UJ">
-<table>
-<tr><td><input type="hidden" name="on0" value="Beach King Tower">Beach King Tower</td></tr><tr><td><select name="os0">
-	<option value="23' x 114"">23' x 114" $860.72 USD</option>
-	<option value="23' x 120"">23' x 120" $891.34 USD</option>
-	<option value="26' x 114"">26' x 114" $930.57 USD</option>
-	<option value="26' x 120"">26' x 120" $951.07 USD</option>
-	<option value="29' x 120"">29' x 120" $1,009.04 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form> -->
+  <div class="pricecolor">
+    <h4>Select Canopy Fabric and Color Options:</h4>
+    <div class="indented">
+      <div ng-hide="harbortime"><input type="checkbox" ng-model="shelterrite" checked>Shelter-Rite®</div>
+      <div ng-hide="shelterrite"><input type="checkbox" ng-model="harbortime">Harbor-Time™</div>
+
+      <div ng-show="shelterrite">
+        Price: {{product.shelterRite | currency: '$'}}
+      </div>
+      <div ng-show="harbortime">
+        Price: {{product.harborTime | currency: '$'}}
+      </div>
+      <br />
+      <div ng-show="shelterrite">
+        <img src = "images/shelterRiteDOTS.jpg" width="75%"></img>
+        <br />Please select a color: <select class="colr" name="colors" ng-model="colrs.colors">
+          <option value="Tan">Tan</option>
+          <option value="Marine">Marine</option>
+          <option value="Royal">Royal</option>
+          <option value="Black">Black</option>
+          <option value="Red">Red</option>
+          <option value="Maroon">Maroon</option>
+          <option value="Green">Green</option>
+          <option value="Orange">Orange</option>
+          <option value="Gray">Gray</option>
+          <option value="Yellow">Yellow</option>
+          <option value="Brown">Brown</option>
+          <option value="White">White</option>
+        </select>
+      </div>
+
+      <div ng-show="harbortime">
+        <img src = "images/harborTimeDOTS.jpg" width="75%"></img>
+        <br />Please select a color: <select class="colr" name="colors" ng-model="colrs.colors">
+          <option value="Beige">Beige</option>
+          <option value="Nautical">Nautical</option>
+          <option value="Mallard">Mallard</option>
+          <option value="Putty">Putty</option>
+          <option value="Shale">Shale</option>
+          <option value="Cordovan">Cordovan</option>
+        </select>
+      </div>
+    </div>
+  </div>
+</div>

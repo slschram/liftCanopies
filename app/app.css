@@ -149,6 +149,25 @@ caption {
   align-content: center;
   vertical-align: baseline;
 }
+.selectedProd {
+  float:left;
+  width:40%;
+  padding-left: 2em;
+  margin-bottom: 1em;
+}
+.indented {
+  padding-left: 2em;
+}
+.pricecolor {
+  float:right;
+  width:55%;
+  vertical-align: baseline;
+  margin-bottom: 1em;
+}
+.colr {
+  /*vertical-align: baseline;*/
+  margin-top: 2em;
+}
 .image {
   /*margin-top: 1%;*/
   margin: 1% auto 0 auto;
