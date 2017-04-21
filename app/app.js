@@ -28,5 +28,20 @@ config(['$locationProvider', '$routeProvider', function($locationProvider, $rout
         $scope.about = false;
         $scope.products = false;
     }
+  };
+})
+.service('shareDataService', function() {
+  var currentProduct;
+  var setCurrentProduct = function(data){
+    currentProduct = data;
+    console.log("currentProduct: " + currentProduct);
+    return currentProduct;
   }
-});
+  var getCurrentProduct = function(){
+    return currentProduct;
+  }
+  return {
+    setCurrentProduct: setCurrentProduct,
+    getCurrentProduct: getCurrentProduct
+  };
+});;

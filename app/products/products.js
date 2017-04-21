@@ -9,7 +9,7 @@ angular.module('myApp.products', ['ngRoute'])
   });
 }])
 
-.controller('ProductsCtrl', ['$scope', '$http', function($scope, $http) {
+.controller('ProductsCtrl', ['$scope', '$rootScope', '$location', '$http', 'shareDataService', function($scope, $rootScope, $location, $http, shareDataService) {
   return $http.get('./products.json').
     success(function(data) {
       $scope.data = data;
@@ -19,13 +19,11 @@ angular.module('myApp.products', ['ngRoute'])
       $scope.sortReverse = false;  // set the default sort order
       $scope.searchProducts = '';     // set the default search/filter term
 
-      // Highlight selected row
-      $scope.selectedObject = {};
       $scope.selectItem = function (object) {
-          if ($scope.selectedObject == object) //reference equality should be sufficient
-              $scope.selectedObject = {}; //de-select if the same object was re-clicked
-          else
-              $scope.selectedObject = object;
+        $scope.selectedObject = object;
+        console.log("passing: " + object);
+        shareDataService.setCurrentProduct(object);
+        $location.path( '/order' );
       };
 
     }).error(function(data, status, headers, config) {

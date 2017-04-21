@@ -105,6 +105,12 @@ table {
   padding: 5%;
   margin: auto;
 }
+#pointer {
+  cursor: pointer;
+}
+.pending-order {
+  background-color: pink;
+}
 tr, td {
   padding: .5%;
   padding-left: 2%;
@@ -165,10 +171,19 @@ hr {
   width: 85%;
   margin-left: 8%;
 }
-
 .searchBox {
   margin: auto;
   font-weight: bold;
+}
+.rowButton {
+  background-color: transparent;
+  border: none;
+  padding: none;
+  display: inline-block;
+  cursor: pointer;
+}
+button:focus {
+  outline:0;
 }
 
 

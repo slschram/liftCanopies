@@ -92,30 +92,15 @@
   </tr>
 </thead>
   <tbody>
-    <tr ng-repeat="object in data | orderBy:sortType:sortReverse | filter:searchProducts"
-    ng-init="object.isred = false"
-    ng-class-odd="'odd'" ng-class-even="'even'"
-    ng-class="{red : object == selectedObject}"
+    <tr id="pointer" ng-repeat="object in data | orderBy:sortType:sortReverse | filter:searchProducts"
     ng-click="selectItem(object)">
-
-    <!-- For selecting multiple: -->
-    <!-- <tr ng-repeat="object in data | orderBy:sortType:sortReverse | filter:searchProducts"
-    ng-init="object.isred = false"
-    ng-class-odd="'odd'" ng-class-even="'even'"
-    ng-class="{red : object.isred }"
-    ng-click="object.isyellow =!object.isred"> -->
-      <td>{{object.productNumber}}</td>
-      <td>{{object.brandName}}</td>
-      <td>{{object.lengthFt}}'{{object.lengthIn}}" x {{object.width}}"</td>
-      <td>{{object.shelterRite | currency: '$'}}</td>
-      <td>{{object.harborTime | currency: '$'}}</td>
+      <button class="rowButton" ng-model="item.checked">
+        <td>{{object.productNumber}}</td>
+        <td>{{object.brandName}}</td>
+        <td>{{object.lengthFt}}'{{object.lengthIn}}" x {{object.width}}"</td>
+        <td>{{object.shelterRite | currency: '$'}}</td>
+        <td>{{object.harborTime | currency: '$'}}</td>
+      </button>
     </tr>
   </tbody>
 </table>
-
-
-<!-- Example of a component use!
-<p>
-  Showing of 'interpolate' filter:
-  {{ 'Current version is v%VERSION%.' | interpolate }}
-</p> -->
